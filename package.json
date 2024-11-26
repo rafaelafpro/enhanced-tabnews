@@ -1,0 +1,16 @@
+{
+  "name": "enhanced-tabnews",
+  "version": "1.0.0",
+  "description": "Implementação do https://tabnews.com.br inicialmente para a jornada do https://curso.dev, mas com ambições de brincar de cientista maluco e adicionar novas features no caminho.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
